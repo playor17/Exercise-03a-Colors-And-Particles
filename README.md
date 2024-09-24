@@ -15,9 +15,9 @@ Built using Unity 2022.3.45f1
 
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
- * [Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
+ * [Puzzle Pack, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack)
  * [Open Color open source color scheme](https://yeun.github.io/open-color/)
- * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
+ * [League Gothic Typeface](https://fonts.google.com/specimen/League+Gothic)
  * [Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
  
 
@@ -27,4 +27,4 @@ Tweening, Screen Shake, Adding a face, Comet trail, Music and Sound, Shaders, et
 
 ## Created by 
 
-Nathan Mishler
+Won Kim
